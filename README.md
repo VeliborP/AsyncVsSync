@@ -1,2 +1,2 @@
 # AsyncVsSync
-Comparation of Sync and Async tasks ASP.Net Core
+Comparison of Sync and Async tasks ASP.Net Core
